@@ -22,10 +22,10 @@ export const SCHOOL = {
 
   /* 머리말 로고 그림입니다. public/assets/ 안에 넣고 경로를 적으세요.
      비워 두면 학교 이름만 글자로 나옵니다. */
-  logo: "/assets/school-logo.png",
+  logo: "",
 
   /* 도름스 커뮤니티 나의 활동 링크입니다. 비워 두면 꼬리말에 나오지 않습니다. */
-  dormsUrl:,
+  dormsUrl:"",
 
   /* 개인정보처리방침에 적는 담당자 표기입니다. 이름 대신 직책을 권합니다. */
   privacyManager: "교무부장"
